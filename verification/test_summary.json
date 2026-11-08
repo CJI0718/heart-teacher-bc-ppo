@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "python": "3.12.4",
+  "tests": 18,
+  "failures": 0,
+  "errors": 0,
+  "training_executed": false,
+  "parameter_updates": 0,
+  "optimizer_steps": 0,
+  "checks": [
+    "ruff",
+    "pytest",
+    "fixed-weight official one-deal smoke",
+    "official serialization and compute budget"
+  ],
+  "versions": {
+    "jax": "0.12.0.1",
+    "jaxlib": "0.12.0.1",
+    "numpy": "2.5.4",
+    "optax": "0.2.8",
+    "heart-marl": "0.1.0",
+    "pytest": "9.2.0",
+    "ruff": "0.17.4"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "training_executed": false,
+  "parameter_updates": 0,
+  "weights": "random initialization",
+  "size_bytes": 163100,
+  "feature_count": 158,
+  "flops_per_decision": 785718.875,
+  "purpose": "official serialized inference contract only"
+}

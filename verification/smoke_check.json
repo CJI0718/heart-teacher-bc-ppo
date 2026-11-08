@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "heart_commit": "ad122dba1e1d4c0aaee9bee8846ceba60ed680fe",
+  "training_executed": false,
+  "parameter_updates": 0,
+  "weights_unchanged": true,
+  "completed_deals": 1,
+  "play_decisions": 13,
+  "purpose": "interface smoke check, not performance evaluation",
+  "reward": -13.0,
+  "component_labels": [
+    0.0,
+    13.0,
+    0.0,
+    0.0
+  ],
+  "jax": "0.12.0.1",
+  "device": "cpu:0",
+  "parameter_count": 16642
+}
